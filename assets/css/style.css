@@ -805,6 +805,10 @@ Counters
 Team
 ------------------------------------------------------------------- */
 
+#team {
+	background-color: ;
+}
+
 .team-image {
 	position: relative;
 	overflow: hidden;

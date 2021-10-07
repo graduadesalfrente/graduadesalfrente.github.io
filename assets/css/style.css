@@ -1678,6 +1678,12 @@ Works item hover
 	        transform: translateY(-50%);
 }
 
+
+.propuestas {
+	list-style-type: none;
+	text-align: left;
+}
+
 /* ------------------------------------------------------------------
 Portfolio Filter
 ------------------------------------------------------------------- */
@@ -1688,6 +1694,7 @@ Portfolio Filter
 	padding: 0;
 	margin: 0 0 70px;
 }
+
 
 .filters > li {
 	display: inline-block;

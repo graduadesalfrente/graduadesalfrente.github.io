@@ -1684,6 +1684,12 @@ Works item hover
 	text-align: left;
 }
 
+#plataforma  p, #plataforma li {
+	font-size: 16px;
+	color: rgb(99, 97, 97);
+	text-align: justify;
+}
+
 /* ------------------------------------------------------------------
 Portfolio Filter
 ------------------------------------------------------------------- */
@@ -1694,6 +1700,7 @@ Portfolio Filter
 	padding: 0;
 	margin: 0 0 70px;
 }
+
 
 
 .filters > li {

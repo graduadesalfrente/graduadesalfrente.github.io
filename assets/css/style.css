@@ -1682,6 +1682,24 @@ Works item hover
 .propuestas {
 	list-style-type: none;
 	text-align: left;
+	padding-left: 0;
+}
+
+.propuestas li {
+	padding: 8px 0;
+	border-bottom: 1px solid #eee;
+	font-size: 16px;
+	color: rgb(99, 97, 97);
+}
+
+.propuestas li:last-child {
+	border-bottom: none;
+}
+
+#declaracion p {
+	font-size: 16px;
+	color: rgb(99, 97, 97);
+	text-align: justify;
 }
 
 #plataforma  p, #plataforma li {
